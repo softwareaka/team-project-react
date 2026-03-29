@@ -4,6 +4,8 @@ function App() {
   return (
     <div>
       <header>DONE</header>
+
+      <main>DONE</main>
     </div>
   );
 }
