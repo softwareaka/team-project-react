@@ -1,9 +1,9 @@
-import React from 'react'
-
-const Header = () => {
+function Header() {
   return (
-    <div>Header</div>
-  )
+    <div>
+      <h1>Header</h1>
+    </div>
+  );
 }
 
-export default Header
+export default Header;
